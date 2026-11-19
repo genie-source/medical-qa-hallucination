@@ -1,0 +1,43 @@
+# 원문 데이터·생성 답변·개별 채점 결과
+/data/
+/work/
+/results/
+/outputs/
+/private_data/
+
+# API 키·인증 정보
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 모델·체크포인트·캐시
+/checkpoints/
+/models/
+/cache/
+.cache/
+huggingface/
+wandb/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# 압축 데이터
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Python 환경·임시 파일
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+
+# macOS
+.DS_Store
+._*

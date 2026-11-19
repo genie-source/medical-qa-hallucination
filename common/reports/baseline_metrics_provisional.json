@@ -1,0 +1,114 @@
+{
+  "valid": {
+    "all": {
+      "total": 288,
+      "counts": {
+        "오답": 207,
+        "정답": 58,
+        "검토 필요": 23
+      },
+      "rates_over_all_percent": {
+        "정답": 20.13888888888889,
+        "오답": 71.875,
+        "거절": 0.0,
+        "검토 필요": 7.986111111111111,
+        "채점 대기": 0.0
+      },
+      "error_among_resolved_answer_attempts_percent": 78.11320754716981,
+      "complete": true,
+      "provisional": true
+    },
+    "short_answer": {
+      "total": 145,
+      "counts": {
+        "오답": 97,
+        "정답": 38,
+        "검토 필요": 10
+      },
+      "rates_over_all_percent": {
+        "정답": 26.20689655172414,
+        "오답": 66.89655172413794,
+        "거절": 0.0,
+        "검토 필요": 6.896551724137931,
+        "채점 대기": 0.0
+      },
+      "error_among_resolved_answer_attempts_percent": 71.85185185185185,
+      "complete": true,
+      "provisional": true
+    },
+    "descriptive": {
+      "total": 143,
+      "counts": {
+        "오답": 110,
+        "정답": 20,
+        "검토 필요": 13
+      },
+      "rates_over_all_percent": {
+        "정답": 13.986013986013987,
+        "오답": 76.92307692307692,
+        "거절": 0.0,
+        "검토 필요": 9.090909090909092,
+        "채점 대기": 0.0
+      },
+      "error_among_resolved_answer_attempts_percent": 84.61538461538461,
+      "complete": true,
+      "provisional": true
+    }
+  },
+  "test": {
+    "all": {
+      "total": 366,
+      "counts": {
+        "오답": 262,
+        "정답": 75,
+        "검토 필요": 29
+      },
+      "rates_over_all_percent": {
+        "정답": 20.491803278688526,
+        "오답": 71.5846994535519,
+        "거절": 0.0,
+        "검토 필요": 7.923497267759563,
+        "채점 대기": 0.0
+      },
+      "error_among_resolved_answer_attempts_percent": 77.74480712166172,
+      "complete": true,
+      "provisional": true
+    },
+    "short_answer": {
+      "total": 179,
+      "counts": {
+        "검토 필요": 13,
+        "정답": 44,
+        "오답": 122
+      },
+      "rates_over_all_percent": {
+        "정답": 24.58100558659218,
+        "오답": 68.15642458100558,
+        "거절": 0.0,
+        "검토 필요": 7.262569832402234,
+        "채점 대기": 0.0
+      },
+      "error_among_resolved_answer_attempts_percent": 73.49397590361446,
+      "complete": true,
+      "provisional": true
+    },
+    "descriptive": {
+      "total": 187,
+      "counts": {
+        "오답": 140,
+        "정답": 31,
+        "검토 필요": 16
+      },
+      "rates_over_all_percent": {
+        "정답": 16.577540106951872,
+        "오답": 74.8663101604278,
+        "거절": 0.0,
+        "검토 필요": 8.556149732620321,
+        "채점 대기": 0.0
+      },
+      "error_among_resolved_answer_attempts_percent": 81.87134502923976,
+      "complete": true,
+      "provisional": true
+    }
+  }
+}
